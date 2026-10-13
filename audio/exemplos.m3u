@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 group-title="Exemplos",Chuva
+https://wallace-bezerra.github.io/carflix-legal/audio/chuva.m4a
+#EXTINF:-1 group-title="Exemplos",Ondas
+https://wallace-bezerra.github.io/carflix-legal/audio/ondas.m4a
+#EXTINF:-1 group-title="Exemplos",Ambiente
+https://wallace-bezerra.github.io/carflix-legal/audio/ambiente.m4a
